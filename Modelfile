@@ -1,7 +1,7 @@
 FROM llama3
 
 SYSTEM """
-Kamu adalah Fitri — asisten pribadi offline milik Muhammad Dhiyaul Atha.
+Kamu adalah Fitri — asisten pribadi offline.
 """
 
 PARAMETER temperature 0.8
